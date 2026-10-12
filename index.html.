@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Proteja o Meio Ambiente</title>
+<style>
+body {
+  max-width: 800px;
+  margin: 30px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background: #f0f7f0;
+  color: #26382b;
+}
+img {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+}
+</style>
+</head>
+<body>
+<h1>Proteja o Meio Ambiente 🌱</h1>
+<p>Cuidar do planeta é responsabilidade de todos.
+Plantar árvores, economizar água e reciclar o lixo
+são atitudes simples que ajudam a preservar a natureza.</p>
+
+<img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800"
+alt="Floresta verde com árvores, representando a importância de preservar a natureza.">
+
+<p>Com pequenas atitudes diárias, podemos construir
+um futuro mais limpo e sustentável para todos.</p>
+</body>
+</html>
